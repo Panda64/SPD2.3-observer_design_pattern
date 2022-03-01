@@ -32,11 +32,11 @@ This repo contains the relevant files from the
 ### Check For Understanding
 Based on our first implementation `weather_data1.py`, which of the following apply? (Choose all that apply.)
 
-[ ] A. We are coding to concrete implementations, not interfaces.  
+[x] A. We are coding to concrete implementations, not interfaces.  
 [x] B. For every new display we’ll need to alter this code.  
 [x] C. We have no way to add (or remove) display elements at runtime.  
-[x] D. The display elements don’t implement a common interface.  
-[ ] E. We haven’t encapsulated the part that changes.  
+[ ] D. The display elements don’t implement a common interface.  
+[x] E. We haven’t encapsulated the part that changes.  
 [ ] F. We are violating encapsulation of the WeatherData class.  
 
 ## Final Implementation
